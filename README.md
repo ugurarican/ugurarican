@@ -6,4 +6,5 @@ Suleyman Demirel University
 - [Electrik & Elektronic Engineer](https://teknoloji.isparta.edu.tr/elektrikelektronik) 
 - [Civil Engineer](https://teknoloji.isparta.edu.tr/tekinsaat)
 ## How to contact?
-[Instagram](https://www.instagram.com/arcn.sevur/)   [Linkedin](https://www.linkedin.com/in/ugur-arican/)
+-[Instagram](https://www.instagram.com/arcn.sevur/)   
+-[Linkedin](https://www.linkedin.com/in/ugur-arican/)
