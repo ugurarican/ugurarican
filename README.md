@@ -1,6 +1,6 @@
 ### Hey there! 👋 Welcome to my GitHub profile! 🚀
 
-[![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+[![Welcome GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 I'm **Uğur**, a passionate back-end developer diving deep into the world of **C# and .NET**! 🖥️💡 I love building cool things, solving tricky problems, and occasionally getting lost in debugging adventures. 🕵️‍♂️💻
 
@@ -24,9 +24,12 @@ I'm **Uğur**, a passionate back-end developer diving deep into the world of **C
 ---
 
 ### 📊 GitHub Stats:  
+"Junior Developer Mode: Activated 🚀"  
 ![Uğur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurarican&show_icons=true&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=ugurarican&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurarican&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+"One commit at a time... and sometimes a revert commit too!"  
+
+"Languages I Speak (Mostly C# 😅)"  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurarican&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 ---
