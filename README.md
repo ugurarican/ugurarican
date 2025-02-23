@@ -1,6 +1,5 @@
 ### Hey there! 👋 Welcome to my GitHub profile! 🚀
-
-[![Welcome GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Welcome GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 I'm **Uğur**, a passionate back-end developer diving deep into the world of **C# and .NET**! 🖥️💡 I love building cool things, solving tricky problems, and occasionally getting lost in debugging adventures. 🕵️‍♂️💻
 
