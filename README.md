@@ -1,6 +1,6 @@
 ### Hey there! 👋 Welcome to my GitHub profile! 🚀
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+[![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 I'm **Uğur**, a passionate back-end developer diving deep into the world of **C# and .NET**! 🖥️💡 I love building cool things, solving tricky problems, and occasionally getting lost in debugging adventures. 🕵️‍♂️💻
 
@@ -23,16 +23,17 @@ I'm **Uğur**, a passionate back-end developer diving deep into the world of **C
 
 ---
 
-### 📊 GitHub Stats:
-![Uğur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurarican_icons=true&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=ugurxyz&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurugurarican&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats:  
+![Uğur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurarican&show_icons=true&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ugurarican&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurarican&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
 ### 📫 How to reach me:
 📩 Email: [ugur-arican@hotmail.com](mailto:ugur-arican@hotmail.com)  
-🔗 LinkedIn: [linkedin.com/in/ugur-arican](https://linkedin.com/in/ugurxyz)  
+🔗 LinkedIn: [linkedin.com/in/ugur-arican](https://linkedin.com/in/ugur-arican)  
 
 ---
 
