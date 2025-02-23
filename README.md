@@ -23,11 +23,11 @@ I'm **Uğur**, a passionate back-end developer diving deep into the world of **C
 ---
 
 ### 📊 GitHub Stats:  
-"Junior Developer Mode: Activated 🚀"  
+#### "Junior Developer Mode: Activated 🚀"  
 ![Uğur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurarican&show_icons=true&theme=radical)  
-"One commit at a time... and sometimes a revert commit too!"  
+*"One commit at a time... and sometimes a revert commit too!"*  
 
-"Languages I Speak (Mostly C# 😅)"  
+#### "Languages I Speak (Mostly C# 😅)"  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurarican&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 
